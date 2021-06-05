@@ -1,5 +1,5 @@
 # Dance-Class-Website
-Hi I made this dance class website (CURRENTLY IN PROGRESS).
+<h1>Hi I made this dance class website (CURRENTLY IN PROGRESS).
 <br>
 I've made this website using:
 <ul>
@@ -8,6 +8,13 @@ I've made this website using:
   <li>JavaScript</li>
   <li>Node.Js (For Backend)</li>
   <li>Express.Js</li>
- <br>
-  This is only a basic website nothing advanced done in this.
-  
+  </ul>
+<br>
+ This is only a basic website nothing advanced done in this.
+<br>
+Requirements to run this web-app
+ <ul>
+   <li>node.js</li>
+   <li>Express.js</li>
+   <li>PUG</li>    
+<ul>
