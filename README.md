@@ -1,5 +1,5 @@
 # Dance-Class-Website
-<h1>Hi I made this dance class website (CURRENTLY IN PROGRESS).
+<h1>Hi I made this dance class website (CURRENTLY IN PROGRESS).</h1>
 <br>
 I've made this website using:
 <ul>
